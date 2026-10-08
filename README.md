@@ -4,14 +4,14 @@
 
 <img align="right" src="assets/kite-dance.gif" alt="Kite, my 3D character, dancing" width="210" />
 
-### Hi, I'm KiteRandel 👋
+### Hi, I'm KiteRandel
 
 I make **3D characters**, **games** and **fun little things for the web**.
 
-- 🪁 That's **Kite** dancing over there. I modeled, rigged and animated them in **Blender**
-- 🕺 Kite stars in my three.js scene, **[Kite Dance Party](https://kiterandel.github.io/kite-dance-party/)**
-- 🎮 I like building games and web toys with **three.js** and **JavaScript**
-- 🌐 Everything I've made lives at **[kiterandel.github.io](https://kiterandel.github.io)**
+- That's **Kite** dancing over there. I modeled, rigged and animated them in **Blender**
+- Kite stars in my three.js scene, **[Kite Dance Party](https://kiterandel.github.io/kite-dance-party/)**
+- I like building games and web toys with **three.js** and **JavaScript**
+- Some neat things live here **[kiterandel.github.io](https://kiterandel.github.io)**
 
 <p>
   <a href="https://kiterandel.github.io"><img src="https://img.shields.io/badge/My_site-kiterandel.github.io-ff4fa3?style=for-the-badge" alt="My site" /></a>
@@ -19,7 +19,7 @@ I make **3D characters**, **games** and **fun little things for the web**.
 
 <br clear="right" />
 
-## ✨ Featured projects
+## Featured projects
 
 <table>
   <tr>
@@ -44,14 +44,14 @@ I make **3D characters**, **games** and **fun little things for the web**.
       <sub><b>three.js · educational</b> · <a href="https://github.com/ElLopez21/Art-Depart">code</a></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/KiteRandel/Discord-Reposter">🤖 Discord Reposter</a></h3>
+      <h3><a href="https://github.com/KiteRandel/Discord-Reposter">Discord Reposter</a></h3>
       A Python bot that copies a channel's message history into another channel.<br />
       <sub><b>Python · discord.py</b></sub>
     </td>
   </tr>
 </table>
 
-## 🧰 Tools I use
+## Tools I use
 
 <p>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
@@ -63,4 +63,4 @@ I make **3D characters**, **games** and **fun little things for the web**.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-<p align="center"><sub>made with 🪁 by KiteRandel</sub></p>
+<p align="center"><sub>made by KiteRandel</sub></p>
