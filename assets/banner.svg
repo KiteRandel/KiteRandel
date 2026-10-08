@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="KiteRandel — 3D characters, games and web toys">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0818"/>
+      <stop offset="0.6" stop-color="#1e0f3a"/>
+      <stop offset="1" stop-color="#0b1d2c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#ff4fa3" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff4fa3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4fa3"/>
+      <stop offset="0.5" stop-color="#ffe14f"/>
+      <stop offset="1" stop-color="#3ff2ff"/>
+    </linearGradient>
+    <linearGradient id="kiteA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff4fa3"/><stop offset="1" stop-color="#9b5cff"/>
+    </linearGradient>
+    <linearGradient id="kiteB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3ff2ff"/><stop offset="1" stop-color="#4fff9b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+
+  <!-- sparkles -->
+  <g fill="#fff">
+    <circle cx="640" cy="60" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="250" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="230" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="70" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="250" r="1.6"><animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="40" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- kites -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="4s" repeatCount="indefinite"/>
+    <path d="M940 60 L1000 120 L940 210 L880 120 Z" fill="url(#kiteA)"/>
+    <path d="M940 60 L940 210 M880 120 L1000 120" stroke="#ffffff" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M940 210 C 925 240, 960 255, 945 285" stroke="#ffe14f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M934 238 l-9 -4 l4 9 z M951 262 l9 -3 l-5 8 z" fill="#ffe14f"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 8; 0 0" dur="3.2s" repeatCount="indefinite"/>
+    <path d="M1075 120 L1110 155 L1075 205 L1040 155 Z" fill="url(#kiteB)" opacity="0.9"/>
+    <path d="M1075 120 L1075 205 M1040 155 L1110 155" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1.5"/>
+    <path d="M1075 205 C 1085 225, 1065 238, 1078 258" stroke="#ff4fa3" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <text x="70" y="155" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="96" font-weight="800" fill="url(#name)" letter-spacing="-1">KiteRandel</text>
+  <text x="74" y="208" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#d6cfe6">3D characters · games · fun stuff for the web</text>
+  <rect x="74" y="232" width="250" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15"/>
+  <circle cx="94" cy="249" r="5" fill="#4fff9b"/>
+  <text x="108" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#a59cbd">kiterandel.github.io</text>
+</svg>
