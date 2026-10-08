@@ -23,22 +23,6 @@ I make **3D characters**, **games** and **fun little things for the web**.
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://kiterandel.github.io/paper-moths/"><img src="assets/paper-moths.jpg" alt="Amara & the Paper Moths" /></a>
-      <h3><a href="https://kiterandel.github.io/paper-moths/">Amara &amp; the Paper Moths</a> · new!</h3>
-      An endless rooftop run at dusk, drawn like a sepia ink sketchbook. Chase glowing paper moths for combos, leap between roofs and duck under the laundry.<br />
-      <sub><b>Blender · three.js · toon shading</b> · <a href="https://github.com/KiteRandel/paper-moths">code</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <a href="https://kiterandel.github.io/amara-cafe/"><img src="assets/amara-cafe.jpg" alt="Amara's Café" /></a>
-      <h3><a href="https://kiterandel.github.io/amara-cafe/">Amara's Café</a></h3>
-      A cozy isometric café game starring Amara. Brew coffee, bake treats, serve humans and beastfolk before their patience runs out, and decorate to attract new guests.<br />
-      <sub><b>Blender · three.js · game design</b> · <a href="https://github.com/KiteRandel/amara-cafe">code</a></sub>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://kiterandel.github.io/kite-dance-party/"><img src="assets/dance-party.jpg" alt="Kite Dance Party" /></a>
       <h3><a href="https://kiterandel.github.io/kite-dance-party/">Kite Dance Party</a></h3>
@@ -60,9 +44,10 @@ I make **3D characters**, **games** and **fun little things for the web**.
       <sub><b>three.js · educational</b> · <a href="https://github.com/ElLopez21/Art-Depart">code</a></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/KiteRandel/Discord-Reposter">Discord Reposter</a></h3>
-      A Python bot that copies a channel's message history into another channel.<br />
-      <sub><b>Python · discord.py</b></sub>
+      <a href="https://kiterandel.github.io/paper-moths/"><img src="assets/paper-moths.jpg" alt="Amara & the Paper Moths" /></a>
+      <h3><a href="https://kiterandel.github.io/paper-moths/">Amara &amp; the Paper Moths</a></h3>
+      An endless rooftop run at dusk, drawn like a sepia ink sketchbook. Chase glowing paper moths, leap between roofs and duck under the laundry.<br />
+      <sub><b>Blender · three.js · toon shading</b> · <a href="https://github.com/KiteRandel/paper-moths">code</a></sub>
     </td>
   </tr>
 </table>
