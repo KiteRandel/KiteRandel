@@ -23,6 +23,14 @@ I make **3D characters**, **games** and **fun little things for the web**.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://kiterandel.github.io/amara-cafe/"><img src="assets/amara-cafe.jpg" alt="Amara's Café" /></a>
+      <h3><a href="https://kiterandel.github.io/amara-cafe/">Amara's Café</a> · new!</h3>
+      A cozy isometric café game starring Amara. Brew coffee, bake treats, serve humans and beastfolk before their patience runs out, and decorate to attract new guests.<br />
+      <sub><b>Blender · three.js · game design</b> · <a href="https://github.com/KiteRandel/amara-cafe">code</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://kiterandel.github.io/kite-dance-party/"><img src="assets/dance-party.jpg" alt="Kite Dance Party" /></a>
       <h3><a href="https://kiterandel.github.io/kite-dance-party/">Kite Dance Party</a></h3>
