@@ -38,9 +38,10 @@ I make **3D characters**, **games** and **fun little things for the web**.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://kiterandel.github.io/IT380game/">🖼️ Art Depart</a></h3>
-      A stealth game set in Renaissance Italy. Sneak past the guard, study famous paintings, and answer art quizzes to escape.<br />
-      <sub><b>three.js · 3D models · educational</b> · <a href="https://github.com/KiteRandel/IT380game">code</a></sub>
+      <a href="https://ellopez21.github.io/Art-Depart/"><img src="assets/art-depart.jpg" alt="Art Depart" /></a>
+      <h3><a href="https://ellopez21.github.io/Art-Depart/">Art Depart</a></h3>
+      An art-heist stealth game. Slip past the curator, study each painting's technique, then prove you know it at the door. Made with Erik Lopez.<br />
+      <sub><b>three.js · educational</b> · <a href="https://github.com/ElLopez21/Art-Depart">code</a></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KiteRandel/Discord-Reposter">🤖 Discord Reposter</a></h3>
