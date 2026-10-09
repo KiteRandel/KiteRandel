@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="KiteRandel — 3D characters, games and web toys">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="KiteRandel — VTuber who models, rigs, and programs">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d0818"/>
@@ -51,7 +51,7 @@
   </g>
 
   <text x="70" y="155" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="96" font-weight="800" fill="url(#name)" letter-spacing="-1">KiteRandel</text>
-  <text x="74" y="208" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#d6cfe6">3D characters · games · fun stuff for the web</text>
+  <text x="74" y="208" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#d6cfe6">VTuber who models, rigs, and programs</text>
   <rect x="74" y="232" width="250" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15"/>
   <circle cx="94" cy="249" r="5" fill="#4fff9b"/>
   <text x="108" y="256" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#a59cbd">kiterandel.github.io</text>

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kiterandel.github.io"><img src="assets/banner.svg" alt="KiteRandel — 3D characters, games and fun stuff for the web" width="100%" /></a>
+  <a href="https://kiterandel.github.io"><img src="assets/banner.svg" alt="KiteRandel — VTuber who models, rigs, and programs" width="100%" /></a>
 </p>
 
 <img align="right" src="assets/kite-dance.gif" alt="Kite, my 3D character, dancing" width="210" />
