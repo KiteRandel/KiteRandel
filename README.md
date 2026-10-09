@@ -6,7 +6,7 @@
 
 ### Hi, I'm KiteRandel
 
-I make **3D characters**, **games** and **fun little things for the web**.
+I'm a VTuber who models, rigs, and programs.
 
 - That's **Kite** dancing over there. I modeled, rigged and animated them in **Blender**
 - Kite stars in my three.js scene, **[Kite Dance Party](https://kiterandel.github.io/kite-dance-party/)**
