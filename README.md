@@ -8,10 +8,7 @@
 
 I'm a VTuber who models, rigs, and programs.
 
-- That's **Kite** dancing over there. I modeled, rigged and animated them in **Blender**
-- Kite stars in my three.js scene, **[Kite Dance Party](https://kiterandel.github.io/kite-dance-party/)**
-- I like building games and web toys with **three.js** and **JavaScript**
-- Some neat things live here **[kiterandel.github.io](https://kiterandel.github.io)**
+I like building interactive experiences and web toys.
 
 <p>
   <a href="https://kiterandel.github.io"><img src="https://img.shields.io/badge/My_site-kiterandel.github.io-ff4fa3?style=for-the-badge" alt="My site" /></a>
