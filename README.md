@@ -38,7 +38,7 @@ I like building interactive experiences and web toys.
     <td width="50%" valign="top">
       <a href="https://kiterandel.github.io/paper-moths/"><img src="assets/paper-moths.jpg" alt="Amara & the Paper Moths" /></a>
       <h3><a href="https://kiterandel.github.io/paper-moths/">Amara &amp; the Paper Moths</a></h3>
-      An endless rooftop run at dusk, drawn like a sepia ink sketchbook. Chase glowing paper moths, leap between roofs and duck under the laundry.<br />
+      A rooftop runner with 5 bossfights, pretty much a harder Subway Surfers.<br />
       <sub><b>Blender · three.js · toon shading</b> · <a href="https://github.com/KiteRandel/paper-moths">code</a></sub>
     </td>
   </tr>
