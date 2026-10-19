@@ -4,14 +4,23 @@
 
 <img align="right" src="assets/kite-dance.gif" alt="Kite, my 3D character, dancing" width="210" />
 
-### Hi, I'm KiteRandel
-
-I'm a VTuber who models, rigs, and programs.
-
 I like building interactive experiences and web toys.
 
 <p>
   <a href="https://kiterandel.github.io"><img src="https://img.shields.io/badge/My_site-kiterandel.github.io-ff4fa3?style=for-the-badge" alt="My site" /></a>
+</p>
+
+### Tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Live2D-E5005A?style=flat-square" alt="Live2D" />
+  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 <br clear="right" />
@@ -48,18 +57,5 @@ I like building interactive experiences and web toys.
     </td>
   </tr>
 </table>
-
-## Tools I use
-
-<p>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Live2D-E5005A?style=flat-square" alt="Live2D" />
-  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
 
 <p align="center"><sub>made by KiteRandel</sub></p>
