@@ -36,24 +36,18 @@ I like building interactive experiences and web toys.
       <sub><b>Blender · three.js · Web Audio</b> · <a href="https://github.com/KiteRandel/kite-dance-party">code</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://kiterandel.github.io/kiting-video-editor/"><img src="assets/editor.jpg" alt="Kiting Video Editor" /></a>
-      <h3><a href="https://kiterandel.github.io/kiting-video-editor/">Kiting Video Editor</a></h3>
-      A video editor that runs in the browser: trim, split, filters, text, export. Claude is built in, so you can just say what to change.<br />
-      <sub><b>JavaScript · Canvas · Claude API</b> · <a href="https://github.com/KiteRandel/kiting-video-editor">code</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ellopez21.github.io/Art-Depart/"><img src="assets/art-depart.jpg" alt="Art Depart" /></a>
-      <h3><a href="https://ellopez21.github.io/Art-Depart/">Art Depart</a></h3>
-      An art-heist stealth game. Slip past the curator, study each painting's technique, then prove you know it at the door. Made with Erik Lopez.<br />
-      <sub><b>three.js · educational</b> · <a href="https://github.com/ElLopez21/Art-Depart">code</a></sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://kiterandel.github.io/paper-moths/"><img src="assets/paper-moths.jpg" alt="Amara & the Paper Moths" /></a>
       <h3><a href="https://kiterandel.github.io/paper-moths/">Amara &amp; the Paper Moths</a></h3>
       An endless rooftop run at dusk, drawn like a sepia ink sketchbook. Chase glowing paper moths, leap between roofs and duck under the laundry.<br />
       <sub><b>Blender · three.js · toon shading</b> · <a href="https://github.com/KiteRandel/paper-moths">code</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://kiterandel.github.io/kiting-video-editor/"><img src="assets/editor.jpg" alt="Kiting Video Editor" width="50%" /></a>
+      <h3><a href="https://kiterandel.github.io/kiting-video-editor/">Kiting Video Editor</a></h3>
+      A video editor that runs in the browser: trim, split, filters, text, export. Claude is built in, so you can just say what to change.<br />
+      <sub><b>JavaScript · Canvas · Claude API</b> · <a href="https://github.com/KiteRandel/kiting-video-editor">code</a></sub>
     </td>
   </tr>
 </table>
